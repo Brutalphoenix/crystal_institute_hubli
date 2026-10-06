@@ -1,0 +1,17 @@
+# Dependencies & Logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel & IDE Build Files
+.vercel
+.idea/
+.vscode/
+*.swp
+*.DS_Store
+
+# Temporary Zip files & Scratch files
+*.zip
+scratch/
+stitch_crystal_institute_3d_web_portal/

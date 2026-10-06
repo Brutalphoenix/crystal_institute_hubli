@@ -1,0 +1,25 @@
+{
+  "name": "crystal-institute-hubli",
+  "version": "1.0.0",
+  "description": "Production Website for Crystal Institute of Competitive Studies (CICS), Hubballi",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "cics",
+    "crystal-institute",
+    "hubballi",
+    "hubli",
+    "banking-coaching",
+    "ssc-coaching",
+    "rrb-railways",
+    "pgcet-coaching"
+  ],
+  "author": "Crystal Institute of Competitive Studies",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
